@@ -7,8 +7,7 @@ L'objectif est de permettre à l'utilisateur de **visualiser, sélectionner et f
 Le système simule un **environnement XR data-driven**, idéal pour la supervision ou le monitoring simplifié.
 
 ## Mode XR choisi
-- VR simulée : interaction via **souris et clavier**  
-- Aucun casque VR nécessaire  
+- VR simulée : interaction via **souris**   
 - L'utilisateur peut interagir avec les objets et les boutons de filtrage directement dans la scène Unity.
 
 ## Fonctionnalités implémentées
